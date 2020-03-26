@@ -6,20 +6,12 @@
 #define TAM 4
 
 void menu(){
-<<<<<<< HEAD
 	printf("> --------------------------------MENU---------------------------\n");
-	printf("1 - Contabilizar casos de hoje coronavirus no sudeste\n");
-	printf("2 - Imprimir casos de hoje coronavirus no sudeste\n");
-	printf("0 - Sair\n");
-	printf("> Opcao:\n");
-=======
-	printf("--------------------------------MENU---------------------------\n");
 	printf("> 1 - Contabilizar casos de hoje coronavirus no sudeste\n");
 	printf("> 2 - Imprimir casos de hoje coronavirus no sudeste\n");
 	printf("> 0 - Sair\n");
-	printf("---------------------------------------------------------------\n");
+	printf("> ---------------------------------------------------------------\n");
 	printf("Opcao:\n");
->>>>>>> 517e0d522e50087cb1317f3d597d718657b824bd
 }
 
 void contabilizaCoronavirus(int casos[]){
