@@ -10,6 +10,7 @@ void menu(){
 	printf("1 - Contabilizar casos de hoje coronavirus no sudeste\n");
 	printf("2 - Imprimir casos de hoje coronavirus no sudeste\n");
 	printf("0 - Sair\n");
+	printf("---------------------------------------------------------------\n");
 	printf("Opcao:\n");
 }
 
