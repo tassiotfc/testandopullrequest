@@ -1,2 +1,3 @@
 # testandopullrequest
-Exercitando o recurso pull request
+
+Exercitando o recurso pull request e git pull
