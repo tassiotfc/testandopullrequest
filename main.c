@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* Plataforma de Contabilização de Casos do Coronavirus Diário Sudeste (ES, SP, RJ, MG)*/
+/* Plataforma de Contabilizaï¿½ï¿½o de Casos do Coronavirus Diï¿½rio Sudeste (ES, SP, RJ, MG)*/
 
 #define TAM 4
 
@@ -43,6 +43,8 @@ int main(int argc, char *argv[]) {
 			case 2:
 				imprimeCoronavirus(casos);
 				break;
+			default: 
+				printf("testando PR")
 		}	
 	}while(op);
 	return 0;
